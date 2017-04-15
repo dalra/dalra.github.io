@@ -1,3 +1,14 @@
 * { margin: 0; padding: 0; }
 li { list-style: none; }
 a {text-decoration: none; }
+
+body {  }
+
+.container { width: 1200px; margin: 0 auto; }
+
+.top { height: 50px; padding: 0 50px; border: 1px solid #ccc; }
+.top-left { float: left; }
+.top-left li{ float: left; border: 1px solid #ccc; }
+
+.top-right { float: right; }
+.top-right li { float: left; border: 1px solid #ccc; }
