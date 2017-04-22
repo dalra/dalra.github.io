@@ -2,6 +2,14 @@ var doc = document;
 
 $(doc).ready(function(){
     
+    // 
+    
+    
+    
+    
+    
+    // slider
+    
     $('.gslider').slick({
         arrows : false
     });
